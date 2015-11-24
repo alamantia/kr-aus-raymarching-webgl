@@ -1,6 +1,6 @@
 #Raymarching workshop utilities
 
-##Slides: https://drive.google.com/a/perk.com/file/d/0BzYXVLhOKPPTdGVqQkVDQTVKak0/view
+##Slides: https://drive.google.com/open?id=0BzYXVLhOKPPTdGVqQkVDQTVKak0
 
 public/js/raymarch.js -- lets you configure which fragment shader you would like to use.
 public/glsl/raymarch_1.glsl -- completed scene
