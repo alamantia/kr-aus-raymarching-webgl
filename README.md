@@ -16,6 +16,8 @@ switch the path in the below snippet (inside raymarch.js) to glsl/raymarch_1.gls
 # running (requires nodejs to spoolup)
 
 npm install express -g
+
+
 npm start
 
 
